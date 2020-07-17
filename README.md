@@ -1,1 +1,1 @@
-# pr-cticas_estadistica
+# Prácticas de Estadística (Grado en Matemáticas)
