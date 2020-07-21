@@ -1,7 +1,7 @@
 #======================================================================
-# ESTADÍsTICA - GRADO DE MATEMÁTICAS - ULL
+# ESTADÍSTICA - GRADO DE MATEMÁTICAS - ULL
 # PRÁCTICA DE LABORATORIO 01 - Operaciones con un data.frame (datasets)
-# Prof.:Miguel A. Glez. Sierra
+# Prof.: Hipólito Hernández Pérez
 #======================================================================
 
 getwd()                      # muestra el directorio de trabajo
