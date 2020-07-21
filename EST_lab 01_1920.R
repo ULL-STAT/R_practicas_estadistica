@@ -1,7 +1,7 @@
 #======================================================================
 # ESTADÍSTICA - GRADO DE MATEMÁTICAS - ULL
 # PRÁCTICA DE LABORATORIO 01 - Operaciones con un data.frame (datasets)
-# Prof.: Hipólito Hernández Pérez
+# Prof.: Hipólito Hernández Pérez 
 #======================================================================
 
 getwd()                      # muestra el directorio de trabajo
