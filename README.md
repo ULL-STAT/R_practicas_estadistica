@@ -1,3 +1,3 @@
 # Prácticas de Estadística (Grado en Matemáticas)
 
-- [README.html](https://ull-stat.github.io/R_practicas_estadistica/instrucciones.html)
+- [Wiki](https://github.com/ULL-STAT/R_practicas_estadistica/wiki)
